@@ -41,3 +41,7 @@
 
 ![](images/img10.png)
 
+- Use 'Sentiment Analysis' to find out about the positive, neutral and negative feedbacks. 'Text Summarization' provides a brief description of the feedback and highlights important words through POS tagging.
+
+![](images/img11.png)
+![](images/img12.png)
