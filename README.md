@@ -24,4 +24,5 @@
 
 - Use Explore tab to view data/sort data/group data by 'Feature' selected.
 ![](images/img5.png)
+![](images/img6.png)
 
