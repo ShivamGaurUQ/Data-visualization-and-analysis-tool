@@ -4,6 +4,11 @@
 - The application runs on Google Colab and can be accessed from the following link: https://colab.research.google.com/drive/126ykrAosZIhkzC9r5m-jkY9UevgjtP0I
 - Execute all the steps from 1 to 5 before application starts.
 
+# Dependencies
+
+- Libraries/Packages used: Numpy, Pandas, NLTK, VaderSentiment, Gensim, Wordcloud, LatentDrichletAllocation, PylDavis, Ipywidgets, Matplotlib, Sklearn
+- Python 3.6 or higher required.
+
 
 # Demo
 
