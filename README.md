@@ -37,3 +37,7 @@
 ![](images/img8.png)
 ![](images/img9.png)
 
+- 'Topic Modelling' helps to find out abstract topics in the text.
+
+![](images/img10.png)
+
