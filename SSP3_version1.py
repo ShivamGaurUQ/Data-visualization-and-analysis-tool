@@ -2033,33 +2033,7 @@ class SSP:
 
 def main():
     obj=SSP()
-    '''
-    def new_data(b):
-        from tkinter import filedialog
-
-        root = tk.Tk()
-        root.withdraw()
-
-        file_path = filedialog.askopenfilename()
-        labelf=widgets.Label(value="Selected Data : "+str(file_path))
-        display(labelf)
-        return file_path
-
-        
-        
-        
-    import_data=widgets.Button(
-    description='Import New Data',
-    disabled=False,
-    button_style='success', # 'success', 'info', 'warning', 'danger' or ''
-    tooltip='Click to import new data',
-    icon='check'
-    )
-    
-    file_path=import_data.on_click(new_data)
-    display(import_data)
-    items[0].on_click(preview_data)
-    '''
+   
 
 
 # In[118]:
