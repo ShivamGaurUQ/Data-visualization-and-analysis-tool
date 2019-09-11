@@ -6,3 +6,9 @@
 
 
 # Demo
+
+- The student feedback data from a prominent university in India was analysed with the help of the tool. The data is available on Kaggle and can be downloaded from the link https://www.kaggle.com/brarajit18/student-feedback-dataset/downloads/student-feedback-dataset.zip/1
+
+- Download the data and run the application on Google Colab. Run all the cells from 1 to 5 in the colab notebook.
+- Once application starts executing, import the feedback data. Note: the application only accepts .xls file (data in excel file format)
+
