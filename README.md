@@ -34,4 +34,6 @@
 
 - Use 'WordClouds' tab to generate uni-gram and bi-gram clouds for determining the most frequently occuring words in the text.
 
+![](images/img8.png)
+![](images/img9.png)
 
