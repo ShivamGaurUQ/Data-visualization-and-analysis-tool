@@ -14,3 +14,11 @@
 
 ![](images/img1.png)
 
+- The 'Data Settings' tab provides options to clean the data by removing missing values and empty rows for the 'Feature' (Column name) selected. Missing values can be specified in the 'Missing Value' text box (default missing value is NaN.
+
+![](images/img2.png)
+
+- Data can be cleaned by clicking on 'Cleaned tab'. If cleaned, cleaned data will be used for analysis. To use original data for analysis purposes, click on 'Original' tab under the 'Data Settings'. To use a different column for data cleaning, choose the column from 'Feature' drop down box.
+
+![](images/img3.png)
+
