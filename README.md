@@ -12,3 +12,5 @@
 - Download the data and run the application on Google Colab. Run all the cells from 1 to 5 in the colab notebook.
 - Once application starts executing, import the feedback data. Note: the application only accepts .xls file (data in excel file format)
 
+![](images/img1.png)
+
