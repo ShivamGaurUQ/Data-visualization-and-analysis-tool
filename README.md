@@ -23,6 +23,10 @@
 ![](images/img4.png)
 
 - Use Explore tab to view data/sort data/group data by 'Feature' selected.
+
 ![](images/img5.png)
 ![](images/img6.png)
 
+
+- 'Visualize' feature distribution in the dataset through pie chart and bar graph.
+![](images/img7.png)
