@@ -29,4 +29,9 @@
 
 
 - 'Visualize' feature distribution in the dataset through pie chart and bar graph.
+
 ![](images/img7.png)
+
+- Use 'WordClouds' tab to generate uni-gram and bi-gram clouds for determining the most frequently occuring words in the text.
+
+
