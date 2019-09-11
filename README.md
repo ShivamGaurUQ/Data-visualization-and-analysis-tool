@@ -20,5 +20,5 @@
 
 - Data can be cleaned by clicking on 'Cleaned tab'. If cleaned, cleaned data will be used for analysis. To use original data for analysis purposes, click on 'Original' tab under the 'Data Settings'. To use a different column for data cleaning, choose the column from 'Feature' drop down box.
 
-![](images/img3.png)
+![](images/img4.png)
 
